@@ -51,3 +51,14 @@ li a {
   padding: 12px 48px;
   margin-bottom: 16px;
 }
+
+button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  margin: 0;
+  outline: none;
+}
