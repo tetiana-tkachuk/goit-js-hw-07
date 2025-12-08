@@ -10,7 +10,7 @@
 
 .gallery li {
   width: 360px;
-  height: 360px;
+  height: 300px;
   border-radius: 8px;
   overflow: hidden;
 }
